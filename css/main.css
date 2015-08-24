@@ -3,6 +3,12 @@ body {
     font-family: Arial;
 }
 
+.nav li {
+    display:inline;
+    margin-left:10px;
+    padding-right:10px;
+}
+
 .container {
     padding:10px 10px 20px 20px;
     margin:20px 20px 20px 20px;
