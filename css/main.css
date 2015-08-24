@@ -1,0 +1,10 @@
+body {
+    background-color:#8be68b;
+    font-family: Arial;
+}
+
+.container {
+    padding:10px 10px 20px 20px;
+    margin:20px 20px 20px 20px;
+    background-color:#fbf8fd;
+}
